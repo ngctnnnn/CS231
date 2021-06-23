@@ -1,4 +1,4 @@
-# Computer-Vision
+# CS231
 This is my repo for CS231 - Introduction to Computer Vision    
 ## Lecturer
 **PhD. Dung Tien Mai**   
