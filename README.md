@@ -10,7 +10,7 @@ This is my repo for CS231 - Introduction to Computer Vision
 | 3 | [Image segmentation](https://github.com/ngctnnnn/Computer-Vision/tree/main/Lab03) | ![](https://img.shields.io/badge/-Done-brightgreen) | [Segmentation](https://colab.research.google.com/drive/1QOG2Kb8Zg6Ca4yHILRid72mXtpRASm1-?authuser=1#scrollTo=P3NKBz3PYQMV) |
 | 4 | [Feature match](https://github.com/ngctnnnn/Computer-Vision/tree/main/Lab03) | ![](https://img.shields.io/badge/-Done-brightgreen) | [Feature match](https://colab.research.google.com/drive/1XFlIMMwhKjtrHfUR8w87fFYYB68nsDMj?usp=sharing) |
 ## Final project 
-### Detect COVID-19 and pneumonia using deep convolutional neural networks
+### [Detect COVID-19 and pneumonia using deep convolutional neural networks](https://github.com/ngctnnnn/CS231/tree/main/Final%20project)
 | Architecture | Number of parameters (M) | Accuracy | 
 |:---:|:---:|:--:|
 | VGG19 | 29.76 trainable + 20.25 non-trainable | 86% |
