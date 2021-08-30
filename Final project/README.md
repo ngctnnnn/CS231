@@ -1,6 +1,8 @@
 # Classifying COVID-19 with Pneumonia using Deep Convolutional Neural Networks
 ## <a link href="https://github.com/ngctnnnn/CS231/blob/main/demo.ipynb">Demo</a>
-<a link href="https://user-images.githubusercontent.com/67086934/130007387-be3a8581-bde1-4b55-afbd-ed4cecf84710.mp4">Demo colab</a>
+
+<a link href ="https://user-images.githubusercontent.com/67086934/131343286-f455dd1c-2e72-46f9-923e-f996aaf0a14d.mov">Demo</a>
+
 
 
 ## References 
